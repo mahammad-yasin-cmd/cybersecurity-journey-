@@ -24,5 +24,6 @@
 # presentation layer 
 - responsible to show the gui interface correctly on corresponing places
 # application layer 
+- here the protocols like ; HTTP , FTP , SMTP operates
 - the last stage of use in application through gui
   
