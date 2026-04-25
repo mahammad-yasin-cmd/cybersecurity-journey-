@@ -80,4 +80,6 @@
 # ARP - adsress resolution protocol 
 -  its  used to resolve by finding mac address on local network
 -  eg - gateway -192.168.0.1 sends a broadcast who has this ip tell me ?
--  
+-  ![image alt](https://github.com/mahammad-yasin-cmd/cybersecurity-journey-/blob/67f194cd03c5ee30ba3e5e85ed5a7ce9acdb7634/Screenshot_2026-04-25_18_02_12.png)
+- you can see the packet capture for ARP request here
+- ---------------------------
