@@ -56,4 +56,28 @@
 - the packet gets encapsulated
 - and decrypt if receiving
 - -----------------------
-# TCP - transfer configuration protocol 
+# TCP - transfer configuration protocol
+- its a reliable protocol to send data
+- its used in
+- web -  http , https and etc
+- email - smtp
+- file transfer - ftp
+- its makes a 3-way handshake
+- -------------------------
+# Three - Way Handshake 
+- first the sender initiate conversatoin to start
+- SYN      SEQ=1000  [0]bytes
+- SYN-ACK  SEQ=3000  [0]bytes ack=1001(seq=1+1)
+- ACK      SEQ=1001  [200]bytes ack=3001
+- this is how a three way  handshake forms
+- --------------------------
+# UDP - User Datagram Protocol
+- its faster than tcp but not reliable
+- no ackowledgement , sequence , 3-way handshake
+- its uses port 53 to DNS queries
+- eg - streaming and gaming
+- ---------------------------
+# ARP - adsress resolution protocol 
+-  its  used to resolve by finding mac address on local network
+-  eg - gateway -192.168.0.1 sends a broadcast who has this ip tell me ?
+-  
