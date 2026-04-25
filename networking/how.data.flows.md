@@ -86,4 +86,4 @@
 # ICMP - Internet Control Message Protocol
 - ping command which uses icmp to capture the time travel between devices
 - eg - ping google.com
-- 
+- <img width="1920" height="923" alt="Image" src="https://github.com/user-attachments/assets/87943e01-bc04-48ab-a5b1-a038c9d0ba21" />
