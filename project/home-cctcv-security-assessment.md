@@ -18,4 +18,8 @@
   ![image alt](https://github.com/mahammad-yasin-cmd/cybersecurity-journey-/blob/25fdb7b4060bf586a802dab9e1c48b7648950e05/screenshots/Screenshot_2026-04-26_16_06_01.png)
 - here you can see the pic for reference
 - used hashcat to crack  password and its was password123
-- we enumurated the infos  but the credentilas were wrong 
+- we enumurated the infos  but the credentilas were wrong
+# wiresharke 
+- while logining the website catured the packets
+- and analyzed the traffic
+  
