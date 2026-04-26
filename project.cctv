@@ -3,3 +3,5 @@
   - used nmap to scan my HOME LAB CCTV to see open ports , services , versions and any unusual open ports.
   - code nmap -sV -P -A 192.168.0.103 
 - i saw port 80 -http , 554 - RSTP (VIDEO STREAMING) , 37777 - dahua propritary service 
+- a webpage hosting on port 80 http and tried default credentials that dint work 
+- 
