@@ -9,5 +9,5 @@
 - used gobuster to find the hidden files
 - i got /cgi-bin , /config , /index.html
 - but there is mo misconfiguration on files amd etc
-  #[image alt](https://github.com/mahammad-yasin-cmd/cybersecurity-journey-/blob/74341d3033e26f5d1622e194c7afae019e661d7e/screenshots/Screenshot_2026-04-26_15_46_05.png)
+  ![image alt](https://github.com/mahammad-yasin-cmd/cybersecurity-journey-/blob/74341d3033e26f5d1622e194c7afae019e661d7e/screenshots/Screenshot_2026-04-26_15_46_05.png)
 - you can see reference on the picture 
