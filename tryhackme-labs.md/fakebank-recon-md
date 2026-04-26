@@ -3,5 +3,5 @@
 - i used dirb and website name dirb http://fakebank.com/ 
 - i got a directory through reconnaisance /admin with weak credentials 
 - i used it and completed the challenge by fiding vulnerability through reconnaisance .
- 
+ ![image](https://github.com/mahammad-yasin-cmd/cybersecurity-journey-/blob/6f04bfea9bd7c697256dba423ae0a0037895a0e2/screenshots/Screenshot_2026-04-25_21_14_08.png)
 - this shows that the dirb commands helps to find hidden directory 
