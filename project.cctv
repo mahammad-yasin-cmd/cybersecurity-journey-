@@ -1,0 +1,5 @@
+# Project - 1 Home CCTV Security Assessment 
+- 1. reconnaisance 
+  - used nmap to scan my HOME LAB CCTV to see open ports , services , versions and any unusual open ports.
+  code
+  
