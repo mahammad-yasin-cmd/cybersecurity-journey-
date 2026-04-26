@@ -11,3 +11,8 @@
 - but there is mo misconfiguration on files amd etc
   ![image alt](https://github.com/mahammad-yasin-cmd/cybersecurity-journey-/blob/74341d3033e26f5d1622e194c7afae019e661d7e/screenshots/Screenshot_2026-04-26_15_46_05.png)
 - you can see reference on the picture 
+# Burp Suite 
+- i used burpsuite to intrude and see info
+- as its a post http request
+- found user name as admin and password in hash and aslo the cookie value
+  
