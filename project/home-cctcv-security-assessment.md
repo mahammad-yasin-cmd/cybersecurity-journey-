@@ -22,4 +22,13 @@
 # wiresharke 
 - while logining the website catured the packets
 - and analyzed the traffic
+- ![image alt](https://github.com/mahammad-yasin-cmd/cybersecurity-journey-/blob/f44df55aba9262095e60de2cb2ddd62be33419dd/screenshots/Screenshot_2026-04-26_16_27_36.png)
   
+- here we see the tcp and one http protocol
+- i analyzed the packets and tcp is fully encypted datas
+# Man In The Middle Attack
+- also used the bettercap for spoofig the ip and mac conversation
+- ![image alt](https://github.com/mahammad-yasin-cmd/cybersecurity-journey-/blob/afa5f6a22d7abbdd8e34d73d237b6513ad9d7e12/screenshots/Screenshot_2026-04-26_16_24_08.png)
+- we can see the every arp request is spoofed
+- this was done in my home lab with full legal
+-  
